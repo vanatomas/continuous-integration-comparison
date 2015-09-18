@@ -12,9 +12,10 @@ A comparison of various continuous delivery options.
 
 ### Self Hosted
 
-Pros:
+| Name | Description | Features | Documentation | Price |
+|------|:-------------:|:-----------:|:-------------:|:-----:|
+|[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
 
-Cons:
 
 ### Hosted
 
@@ -25,38 +26,7 @@ Cons:
 
 ## Platforms
 
-### [CodeShip](https://codeship.com/)
+| Name | Pros | Cons | Features | Price |
+|------|:-------------:|:-----------:|:-------------:|:-----:|
+|[Codeship]() | Pros here | Cons here | Features here | Price here |
 
-Pros:
-
-Cons:
-
-### [GoCD](http://www.go.cd/)
-
-Pros:
-
-Cons:
-
-### [Jenkins](https://jenkins-ci.org/)
-
-Pros:
-
-Cons:
-
-### [Travis-CI](https://travis-ci.org/)
-
-Pros:
-
-Cons:
-
-### [Circle-CI](https://circleci.com/)
-
-Pros:
-
-Cons:
-
-### [Solano-CI](https://www.solanolabs.com/home)
-
-Pros:
-
-Cons:
