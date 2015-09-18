@@ -11,18 +11,13 @@ A comparison of various continuous delivery options.
 ## Self Hosted vs Hosted
 
 ### Self Hosted
-
-| Name | Description | Features | Documentation | Price |
-|------|:-------------:|:-----------:|:-------------:|:-----:|
-|[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
-
+Pros:
+Cons:
 
 ### Hosted
 
-Pros:
-
+Pros: 
 Cons:
-
 
 ## Platforms
 
