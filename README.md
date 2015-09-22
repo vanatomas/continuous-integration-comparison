@@ -9,21 +9,13 @@ A comparison of various continuous delivery options.
 
 ## Self Hosted vs Hosted
 
-### Self Hosted
-Pros:
-<ul>
-  <li>Absolute control over every aspect of build process</li>
-</ul>
-Cons:
-<ul>
-  <li>Time consuming</li>
-  <li>Huge barrier for new projects</li>
-</ul>
+| Type | Pros          | Cons  |
+|------|:-------------:|:-------------:|
+| Self-Hosted |<ul><li>Absolute control over every aspect of build process</li></ul>|<ul><li>Time consuming</li><li>Huge barrier for new projects</li></ul>|
+|Hosted | <ul><li>No maintenance</li><li>Minimal setup for new projects</li><li>Easy integrations</li><li>Build badges</li></ul> | <ul><li>Cost</li></ul> |
 
-### Hosted
+<b>TL;DR</b> Hosted saves us time. Self-hosted gives us flexability.
 
-Pros:
-Cons:
 
 ## Platforms
 
