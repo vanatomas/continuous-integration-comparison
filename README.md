@@ -25,6 +25,7 @@ All of these meet minimum requirements:
 - github and bitbucket integration
 - flexible scripting
 - build badges
+- parallel tests
 
 
 | Name | Hosting |  Pros | Cons | Price |
