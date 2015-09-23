@@ -28,6 +28,7 @@ All of these meet minimum requirements:
 - parallel tests
 
 
+
 | Name | Hosting |  Pros | Cons | Price |
 |------|:----------:|:-------------|:-----------|:-----:|
 |[Codeship](https://codeship.com/) | Hosted |<ul><li>BitBucket support</li><li>Dependency caching</li><li>Parallel test running</li><li>Debug builds via ssh</li></ul> |  | $199/month |
