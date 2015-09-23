@@ -32,5 +32,5 @@ All of these have the minimum requirements needed for a CI server:
 |[Jenkins](https://jenkins-ci.org/) | Self |<ul><li>Free</li><li>Lots of plugins</li><li>Highly customizable</li></ul> | <ul><li>Hard to debug</li><li>Have to manage server</li><li>Outdated tech</li><li>Not congruent with devops practices</li><li>Outdated interface</li></ul> | Free |
 |[Robot Sweatshop](https://github.com/JScott/robot_sweatshop) | Self |<ul><li>Test on every environment</li></ul> | <ul><li>Time sink</li><li>No community support</li></ul> | Free |
 |[Go CD](http://www.go.cd/) | Self |<ul><li>Free</li><li>Very flexible w/ environments</li><li>[Fan-in/fan-out dependency management](http://support.thoughtworks.com/entries/22229668-Go-s-Dependency-Management)</li></ul> | | Free |
-|[Circle CI](https://circleci.com/) | Hosted |<ul><li>SSH debugging</li><li>Automatic parallelization</li><li>[Fast test magic](https://circleci.com/docs/what-happens)</li></ul> | <ul><li>Very Expensive</li></ul> | $269/mo for 6 containers |
+|[Circle CI](https://circleci.com/) | Hosted |<ul><li>SSH debugging</li><li>Automatic parallelization</li><li>[Fast test magic](https://circleci.com/docs/what-happens)</li></ul> | <ul><li>Very Expensive with scale</li></ul> | $269/mo for 6 containers |
 |[Drone](https://drone.io/) | Both |<ul><li>Ideal platform for Docker integration</li></ul> | | $50/month |
