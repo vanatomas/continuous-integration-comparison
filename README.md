@@ -26,6 +26,7 @@ All of these meet minimum requirements:
 - flexible scripting
 - build badges
 
+
 | Name | Hosting |  Pros | Cons | Price |
 |------|:----------:|:-------------|:-----------|:-----:|
 |[Codeship](https://codeship.com/) | Hosted |<ul><li>BitBucket support</li><li>Dependency caching</li><li>Parallel test running</li><li>Debug builds via ssh</li></ul> |  | $199/month |
@@ -35,4 +36,4 @@ All of these meet minimum requirements:
 |[Go CD](http://www.go.cd/) | Self |<ul><li>Free</li><li>Very flexible w/ environments</li><li>[Fan-in/fan-out dependency management](http://support.thoughtworks.com/entries/22229668-Go-s-Dependency-Management)</li></ul> | | Free |
 |[Circle CI](https://circleci.com/) | Hosted |<ul><li>SSH debugging</li><li>Automatic parallelization</li><li>[Fast test magic](https://circleci.com/docs/what-happens)</li></ul> | <ul><li>Very Expensive</li><li><b>No bitbucket support</b></li></ul> | $269/mo for 6 containers |
 |[Drone](https://drone.io/) | Both | <ul><li>Built on docker containers</li><li>Easy self hosting</li><li>Inexpensive</li></ul> | <ul><li>Limited feature set</li></ul>  | $50/month |
-|[Solano CI](https://www.solanolabs.com/) | Both | <ul><li>SSH Debug</li><li>Parallel builds</li></ul> | <ul><li></li></ul> | $125/month |
+|[Solano CI](https://www.solanolabs.com/) | Both | <ul><li>SSH Debug</li><li>Parallel builds</li></ul> |  | $125/month |
