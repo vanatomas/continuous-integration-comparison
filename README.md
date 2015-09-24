@@ -50,6 +50,7 @@ All of these meet minimum requirements:
 | Reviewer | Review |  Liked | Didn't Like |
 |------|:----------:|:-------------|:-----------|:-----:|
 | Patrick Zhang | 3 out 5 | <ul><li>Login with bitbucket/git account</li><li>No set up needed for monitoring the repo</li><li>Easy to use</li></ul> | <ul><li>Lack of features</li></ul> |
+|Dennis Demenschonok|:----------:|:-------------|If to sign in with bitbucket account, Codeship asks to get Read and Write access to the repos, that's not acceptable|::|
 
 
 ### Travis
