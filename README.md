@@ -49,7 +49,7 @@ All of these meet minimum requirements:
 
 | Reviewer | Review |  Liked | Didn't Like |
 |------|:----------:|:-------------|:-----------|:-----:|
-| Patrick Zhang |  | <ul><li></li></ul> | <ul><li></li></ul> |
+| Patrick Zhang |  | <ul><li>Login with bitbucket/git account</li><li>No set up needed for monitoring the repo</li></ul> | <ul><li>Lack of features</li></ul> |
 
 
 ### Travis
