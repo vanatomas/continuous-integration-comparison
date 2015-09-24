@@ -65,7 +65,6 @@ All of these meet minimum requirements:
 
 ### GoCD
 
-<<<<<<< HEAD
 | Reviewer | Review |  Liked | Didn't Like |
 |------|:----------:|:-------------|:-----------|:-----:|
 | Name |  |  | |
